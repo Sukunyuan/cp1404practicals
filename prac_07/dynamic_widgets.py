@@ -1,10 +1,3 @@
-"""
-Kivy example for CP1404/CP5632, IT@JCU
-Dynamically create buttons based on content of dictionary
-Lindsay Ward
-Modified from popup_demo, 11/07/2016
-"""
-
 from kivy.app import App
 from kivy.lang import Builder
 from kivy.uix.button import Button
